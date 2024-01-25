@@ -1,7 +1,7 @@
 ![WPF UI Banner Dark](https://user-images.githubusercontent.com/13592821/174165081-9c62d188-ecb6-4200-abd8-419afbaf32c2.png#gh-dark-mode-only)
 ![WPF UI Banner Light](https://user-images.githubusercontent.com/13592821/174165388-921c4745-90ed-4396-9a4b-9c86478f7447.png#gh-light-mode-only)
 
-# WPF UI
+# VIGA H
 
 [Created with ❤ in Poland by lepo.co](https://dev.lepo.co/)  
 A simple way to make your application written in WPF keep up with modern design trends. Library changes the base elements like `Page`, `ToggleButton` or `List`, and also includes additional controls like `Navigation`, `NumberBox`, `Dialog` or `Snackbar`.
@@ -50,9 +50,10 @@ https://marketplace.visualstudio.com/items?itemName=lepo.wpf-ui
 | **Wpf.Ui.FontMapper**<br />Console app for generating Fluent System Icons enums.             | [![NET7](https://img.shields.io/badge/.NET-8.0-purple)](https://github.com/lepoco/wpfui/blob/main/src/Wpf.Ui.FontMapper/Wpf.Ui.FontMapper.csproj)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **Wpf.Ui.Extension**<br />Project for Visual Studio 2022 extension.                          | [![NETFramework48](https://img.shields.io/badge/.NET%20Framework-4.8-orange)](https://github.com/lepoco/wpfui/blob/main/src/Wpf.Ui.Extension/Wpf.Ui.Extension/Wpf.Ui.Extension.csproj)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
+
 ## 📷 Screenshots
 
-![Demo App Sample](https://user-images.githubusercontent.com/13592821/166259110-0fb98120-fe34-4e6d-ab92-9f72ad7113c3.png)
+![Demo App Sample](https://github.com/pomaton12/Update_VigaH/assets/129473476/f9fffa5c-e4b4-488d-931b-b5cb65ebea3a)
 
 ![Monaco Editor](https://user-images.githubusercontent.com/13592821/258610583-7d71f69d-45b3-4be6-bcb8-8cf6cd60a2ff.png)
 
